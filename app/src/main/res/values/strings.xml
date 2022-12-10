@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UxH_ToolKit</string>
+    <string name="root_toolkit">Root ToolKit</string>
+    <string name="lib_name">Lib Name</string>
+    <string name="terminal">%1$s\n%2$s</string>
+    <string name="loaded_libs">Loaded Libs</string>
+    <string name="search_loaded_libs">search loaded libs</string>
+    <string name="showing_results_302">Showing results : %1$d</string>
+</resources>
