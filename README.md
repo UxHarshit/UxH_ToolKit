@@ -1,5 +1,5 @@
 ### Root Toolkit
-It uses libsu which helps to run in root process, libsu uses native ips mechanism to do that
+It uses libsu which helps to run in root process, libsu uses native ipc mechanism to do that
 
 ![](https://img.shields.io/github/downloads/UxHarshit/UxH_ToolKit/total) ![](https://img.shields.io/github/forks/UxHarshit/UxH_ToolKit) ![](https://img.shields.io/github/stars/UxHarshit/Uxh_ToolKit) ![](https://img.shields.io/github/watchers/UxHarshit/UxH_ToolKit) ![](https://img.shields.io/github/directory-file-count/UxHarshit/UxH_ToolKit) ![](https://img.shields.io/github/repo-size/UxHarshit/Uxh_ToolKit)  ![](https://img.shields.io/github/v/release/UxHarshit/Uxh_toolKit) ![](https://img.shields.io/github/checks-status/UxHarshit/UxH_toolKit/master) ![](https://img.shields.io/badge/Telegram-%40UxHurricane-blue?link=http://uxhurricane.t.me) ![](https://img.shields.io/badge/Discord-%40UxHurricane-green?link=https://discord.com/users/565200061709942784)
 ## Features
